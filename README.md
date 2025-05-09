@@ -3,9 +3,8 @@
 🎓 I'm a Computer Science major at **EPFL**  
 💻 Passionate about building projects that blend creativity and logic  
 🌱 Currently learning and experimenting with new technologies  
-🚀 Always curious about AI, web apps, and how systems work under the hood
 
-## 🧠 Tech Skills
+## 💻 Tech Skills
 - **Languages**:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
